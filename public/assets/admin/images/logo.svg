@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122" height="32" viewBox="0 0 122 32">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="122" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="37" height="6" rx="3" transform="translate(0 7)" fill="#11f9f2"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="17" height="7" rx="3.5" transform="translate(12.939 12.561) rotate(90)" fill="#11f9f2"/>
+    <text id="Triangle" transform="translate(40 23)" font-size="17" font-family="LithosPro-Regular, Lithos Pro"><tspan x="0" y="0">Triangle</tspan></text>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="25" height="6" rx="3" transform="translate(12.54 20.718) rotate(-45)" fill="#11f9f2"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="4" cy="4" r="4" transform="translate(25 20)" fill="#11f9f2"/>
+  </g>
+</svg>

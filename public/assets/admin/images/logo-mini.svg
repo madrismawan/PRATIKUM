@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="29.37" viewBox="0 0 40 29.37">
+  <defs>
+    <clipPath id="clip-logo-mini">
+      <rect width="40" height="29.37"/>
+    </clipPath>
+  </defs>
+  <g id="logo-mini" clip-path="url(#clip-logo-mini)">
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="37" height="6" rx="3" transform="translate(0 5)" fill="#11f9f2"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="17" height="7" rx="3.5" transform="translate(12.939 10.561) rotate(90)" fill="#11f9f2"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="25" height="6" rx="3" transform="translate(12.54 18.718) rotate(-45)" fill="#11f9f2"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="4" cy="4" r="4" transform="translate(25 18)" fill="#11f9f2"/>
+  </g>
+</svg>
